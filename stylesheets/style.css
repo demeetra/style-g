@@ -23,6 +23,10 @@
   margin: calc((50*100%)/1440);
   /* background-color: #D8E0F3; */
 }
+a{
+  color: black;
+  text-decoration: none;
+}
 h1{
   margin-top: 190px;
   font-family: "Lora-Regular";
@@ -70,8 +74,9 @@ h4{
   display: inline-block;
 }
 .button_in_menu{
-  margin-right: calc((47*100%)/1440);
+  margin-right: calc((35*100%)/1440);
   margin-top: calc((5*100%)/1440);
+  padding: 5px;
 
 
 
