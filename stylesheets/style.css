@@ -94,7 +94,7 @@ h4{
   margin: 10% 27%;
   width: 46%;
 }
-#text3{
+.text3{
   margin-top: 56px;
   margin-left: 17%;
   width: 42%;
@@ -293,4 +293,14 @@ section{
 .bold{
   font-weight: bold;
   width: 43%;
+}
+.setka_img{
+  margin-bottom: 3%;
+  margin-top: 2%;
+}
+#setka_text{
+  width: 31.5%;
+}
+#reclama_img{
+  margin-bottom: 10%;
 }
