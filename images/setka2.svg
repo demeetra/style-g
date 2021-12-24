@@ -1,0 +1,38 @@
+<svg width="905" height="515" viewBox="0 0 905 515" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_814_162)">
+<rect x="0.246094" y="0.919922" width="339" height="514" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56.3159 514.92V0.919922H56.5151V514.92H56.3159Z" fill="#042245" stroke="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M97.7456 514.92V0.919922H97.9448V514.92H97.7456Z" fill="#042245" stroke="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M133.598 514.92V0.919922H133.797V514.92H133.598Z" fill="#042245" stroke="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M159.69 514.92V0.919922H159.89V514.92H159.69Z" fill="#042245" stroke="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M169.848 514.92V0.919922H170.047V514.92H169.848Z" fill="#042245" stroke="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M179.409 514.92V0.919922H179.608V514.92H179.409Z" fill="#042245" stroke="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M206.1 514.92V0.919922H206.299V514.92H206.1Z" fill="#042245" stroke="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M241.953 514.92V0.919922H242.152V514.92H241.953Z" fill="#042245" stroke="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M282.585 514.92V0.919922H282.785V514.92H282.585Z" fill="#042245" stroke="black"/>
+</g>
+<rect x="0.746094" y="1.41992" width="338" height="513" stroke="black"/>
+<g clip-path="url(#clip1_814_162)">
+<rect x="565.246" y="0.919922" width="339" height="514" fill="white"/>
+<path d="M565.246 67.5059H919.203" stroke="#606769"/>
+<path d="M566.998 164.245H920.955" stroke="#606769"/>
+<path d="M566.874 258.23H920.831" stroke="#606769"/>
+<path d="M566.874 353.049H920.831" stroke="#606769"/>
+<path d="M566.874 447.856H920.831" stroke="#606769"/>
+<path d="M614.78 845.642L614.78 -23.0865" stroke="#606769"/>
+<path d="M662.947 845.593L662.947 -23.1353" stroke="#606769"/>
+<path d="M711.582 845.742L711.582 -22.9859" stroke="#606769"/>
+<path d="M759.689 845.518L759.689 -23.2105" stroke="#606769"/>
+<path d="M807.87 845.905L807.87 -22.8228" stroke="#606769"/>
+<path d="M855.616 845.593L855.616 -23.1353" stroke="#606769"/>
+</g>
+<rect x="565.746" y="1.41992" width="338" height="513" stroke="black"/>
+<defs>
+<clipPath id="clip0_814_162">
+<rect x="0.246094" y="0.919922" width="339" height="514" fill="white"/>
+</clipPath>
+<clipPath id="clip1_814_162">
+<rect x="565.246" y="0.919922" width="339" height="514" fill="white"/>
+</clipPath>
+</defs>
+</svg>

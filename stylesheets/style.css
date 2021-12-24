@@ -57,21 +57,23 @@ h4{
   position: fixed;
   bottom: 0;
   width: 89.8%;
-  padding-bottom: 8.7%;
+  height: 10%;
   outline: 1px dashed black;
   border: 1px solid black;
   outline-offset: -5px;
   background: white;
-  padding: 24px;
+  padding: 15px;
+  padding-left: 30px;
 }
 .button_in_menu, .icon{
   position: relative;
   display: inline-block;
 }
 .button_in_menu{
-  margin-right: calc((36*100%)/1440);
-  margin-top: calc((18*100%)/1440);
-  padding: 5px;
+  margin-right: calc((47*100%)/1440);
+  margin-top: calc((5*100%)/1440);
+
+
 
 }
 .button_in_menu:hover{
@@ -89,7 +91,7 @@ h4{
   margin-left: 550px;
 }
 #logo_main{
-  margin: 20% 27%;
+  margin: 10% 27%;
   width: 46%;
 }
 #text3{
@@ -187,7 +189,7 @@ h4{
 #logo2{
   position: absolute;
   margin-left: 76%;
-  top: 3600px;
+  top: 1%;
 }
 hr{
   margin-left: 8.5%;
@@ -221,13 +223,74 @@ hr{
   margin-left: 15.5%;
 }
 .podpisi{
+  margin-right: 1.5%;
   display: inline-block;
-  width: 30%;
+  width: 31%;
 }
 .podpisi1{
+  width: 23%;
   margin-left: 8.5%;
+}
+
+.ogranicheniya, .color{
+  margin-left: 8.5%;
+}
+.podpisi-ogran{
+  position: relative;
+  display: inline-block;
+  width: 45%;
+  margin-bottom: 2%;
+  margin-top: 5%;
+}
+.podpisi-color{
+  position: relative;
+  display: inline-block;
+  width: 26.5%;
+  margin-bottom: 1%;
+  margin-top: 2%;
 }
 .logo_on_list{
   margin-top: 15px;
   margin-right: 1.4%;
+}
+h2 ~ p{
+  width: 45%;
+  margin-left: 8.5%;
+}
+h1 ~ h2{
+  margin-top: 6%;
+}
+section{
+  position: relative;
+}
+.row{
+  margin-left: 38%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+#Lora-R{
+  font-family: "Lora-Regular";
+  font-size: 80px;
+}
+#Lora-I{
+  font-family: "Lora-Italic";
+  font-size: 60px;
+}
+#Helvetica-L{
+  font-family: "helvetica-light";
+  font-size: 18px;
+}
+.garnitura{
+  width: 28%;
+  margin-left: 8.5%;
+}
+.p-setka{
+  width: 30%;
+}
+.setka{
+  margin-left: 8.5%;
+}
+.bold{
+  font-weight: bold;
+  width: 43%;
 }
