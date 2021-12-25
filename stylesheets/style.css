@@ -18,6 +18,8 @@
     font-style: normal;
     font-weight: normal;
 }
+body{
+}
 .conteiner{
   position: absolute;
   margin: calc((50*100%)/1440);
@@ -28,6 +30,7 @@ a{
   text-decoration: none;
 }
 h1{
+  cursor: url('../images/cursor.cur');
   margin-top: 190px;
   font-family: "Lora-Regular";
   font-size: 80px;
